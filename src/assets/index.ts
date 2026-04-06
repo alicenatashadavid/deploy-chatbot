@@ -1,0 +1,1 @@
+export { default as botPicture } from './botPic.png';
