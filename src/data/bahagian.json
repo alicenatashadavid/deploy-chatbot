@@ -1,0 +1,273 @@
+[
+  {
+    "nama": "Bahagian Pengurusan", 
+    "keywords": ["pengurusan", "ketua jabatan", "unit"],
+    "pengurusan": [
+      "Peranan: Bahagian Pengurusan bertanggungjawab membantu ke arah pencapaian dasar dan objektif jabatan dengan  memastikan program-program jabatan disokong melalui sistem perkhidmatan pengurusan yang kukuh, cekap dan berkesan.",
+    
+      "Objektif: Membantu ke arah pencapaian dasar dan objektif Jabatan Kesihatan W.P. Labuan dengan memastikan program-program jabatan disokong dan didukung melalui sistem perkhidmatan pengurusan yang kukuh, cekap dan berkesan dari segi pentadbiran, sumber manusia dan kewangan.",
+    
+      "Misi: Membantu menyelenggara kemudahan-kemudahan fizikal dan tenaga manusia melalui sistem yang kemas dan teratur berserta kemudahan kewangan yang mencukupi.",
+
+      "Wawasan: Menyokong usaha-usaha jabatan ke arah menjadi pusat utama melalui sistem penjagaan dan pencegahan yang adil dan saksama, cekap dan tersedia dengan teknologi yang serasi pelanggan."
+    ],
+    "seksyen": [
+      "Seksyen Khidmat Pengurusan - Unit Pentadbiran, Unit Pemandu, Unit Latihan, Unit Teknologi Maklumat",
+      "Seksyen Kewangan - Unit Kewangan, Unit Akaun Dan Bayaran, Unit Pinjaman, Unit Hasil",
+      "Seksyen Sumber Manusia",
+      "Seksyen Perolehan - Unit Perolehan, Unit Aset, Unit Stor",
+      "Unit Integriti Dan Komunikasi Korporat - Unit Tatatertib, Unit Aduan",
+      "Unit Pembangunan"
+    ]
+  },
+  { 
+    "nama": "Bahagian Kesihatan Awam", 
+    "keywords": ["kesihatan awam", "public health", "pemakanan", "promosi"],
+    "kesihatan awam": [
+      "Peranan: Bahagian Kesihatan Awam bertanggungjawab menyediakan perkhidmatan berkualiti bagi memenuhi kehendak masyarakat dan berusaha membuat penambahbaikan secara berterusan melalui kaedah dan teknologi yang bersesuaian serta kepatuhan yang konsisten terhadap sistem kualiti untuk meningkatkan taraf kesihatan.",
+
+      "Visi: Menjadi peneraju dan penggerak utama ke arah pencegahan, perawatan, pemantauan dan promosi kesihatan yang cekap serta serasi pelanggan dan masyarakat.",
+      
+      "Misi: Menyediakan perkhidmatan kesihatan yang cekap dan berkesan, professional dan berhemah, dedikasi dan bertanggungjawab serta mengutamakan kehendak pelanggan dan penglibatan masyarakat dalam melaksanakan program Kesihatan Awam."
+    ],
+    "seksyen": [
+      "Seksyen Perkembangan Kesihatan Awam",
+      "Seksyen Pembangunan Kesihatan Keluarga",
+      "Seksyen Promosi (Pendidikan) Kesihatan",
+      "Seksyen Kawalan Penyakit",
+      "Seksyen Pemakanan",
+      "Seksyen Kejuruteraan"
+    ],
+    "promosi kesihatan": [
+      "Peranan: Unit Promosi Kesihatan bertanggungjawab terhadap perancangan, pelaksanaan, penyelarasan dan penilaian program pendidikan kesihatan sebagai program khusus disamping memberi sokongan dalam aspek pendidikan kesihatan untuk semua program kesihatan di Jabatan Kesihatan.",
+      
+      "Objektif: Mencapai perubahan pengetahuan, sikap dan tingkahlaku untuk tujuan meningkatkan kesihatan individu, keluarga dan masyarakat menerusi daya usaha sendiri dengan:-", 
+      "1. Menanam minat di kalangan masyarakat terhadap kepentingan kesihatan dan amalan gaya hidup sihat", "2. Meningkatkan kesedaran tentang langkah-langkah pencegahan penyakit dan memupuk sikap bertanggungjawab terhadap kesihatan sendiri", 
+      "3. Meningkatkan kesedaran tentang kemudahan-kemudahan kesihatan yang ada dan menggalakkan penggunaan kemudahan tersebut"
+      ], 
+    "pemakanan": [
+      "Peranan: Menganjurkan Program Pengawasan yang bertujuan untuk memantau taraf pemakanan bagi kategori yang telah ditetapkan manakala Program pemulihan meningkatkan dan memperbaiki taraf pemakanan masyarakat yang mengalami kekurangan dan berlebihan zat makanan. Program promosi pula bertujuan meningkatkan pengetahuan tentang pemakanan agar dapat menyumbang kepada perubahan cara gaya hidup yang lebih sihat.", 
+      
+      "Objektif Umum: Mencapai dan mengekalkan kesejahteraan pemakanan yang optimum di kalangan penduduk Wilayah Persekutuan Labuan.", 
+      "1. Menanam minat di kalangan masyarakat terhadap kepentingan kesihatan dan amalan gaya hidup sihat", "2. Meningkatkan kesedaran tentang langkah-langkah pencegahan penyakit dan memupuk sikap bertanggungjawab terhadap kesihatan sendiri", 
+      "3. Meningkatkan kesedaran tentang kemudahan-kemudahan kesihatan yang ada dan menggalakkan penggunaan kemudahan tersebut",
+      
+      "Objektif Khusus: 1. Meningkatkan amalan penyusuan susu ibu dan pemberian makanan pelengkap", 
+      "2. Meningkatkan amalan pengambilan makanan dan pemakanan yang baik", 
+      "3. Mengurangkan masalah kekurangan Protein-Tenaga", 
+      "4. Mengurangkan masalah mikronutrien", 
+      "5. Mengurangkan masalah berat badan berlebihan dan obesiti", 
+      "6. Pencegahan dan pengawalan penyakit tidak berjangkit berkaitan dengan pemakanan"
+      ]
+  },
+  {
+    "nama": "Bahagian Perkhidmatan Farmasi", 
+    "keywords": ["farmasi", "cawangan", "perkembangan farmasi", "penguatkuasa farmasi", "pengurusan farmasi"],
+    "farmasi": [
+      "Peranan: Bahagian Perkhidmatan Farmasi W.P. Labuan merupakan penyelaras program farmasi di Jabatan Kesihatan W.P. Labuan. Bahagian ini memainkan peranan untuk memastikan bahan-bahan farmaseutikal dan penjagaan rawatan ubat yang diberikan adalah selamat, berkesan dan berkualiti untuk orang awam.",
+    
+      "Visi: Menerajui pengurusan berkualiti ke atas produk-produk farmaseutikal melalui tenaga kerja yang cekap dan profesional, sains dan teknologi yang bersesuaian dan perkongsian maklumat dengan semua pihak yang berkepentingan.",
+    
+      "Misi: Memastikan semua warga Malaysia memperoleh produk farmaseutikal dan produk pemelihara kesihatan yang berkualiti, selamat dan berkesan termasuklah nasihat mengenai penggunaannya secara rasional.",
+      
+      "Objektif: i. Memastikan bahawa pesakit-pesakit yang menerima rawatan di Kementerian Kesihatan Malaysia memperoleh perkhidmatan Farmasi berkonsepkan ‘Total Pharmaceutical Care’.", 
+      "ii. Memastikan pendidikan orang awam terhadap penggunaan ubat-ubatan secara rasional ditingkatkan.", "iii.Memastikan keluaran farmaseutikal dan produk-produk penjagaan kesihatan adalah berkualiti, selamat, berkesan dan mampu serta mudah diperolehi oleh orang awam termasuk nasihat penggunaan yang rasional.", 
+      "iv. Menentukan bahawa pengilangan, pengimportan, penjualan, pengedaran, pengurusan dan kegunaan farmaseutikal, kosmetik dan produk pemelihara kesihatan dilaksanakan selaras dengan perundangan Farmasi yang berkuatkuasa dalam negara."
+    ],
+    "cawangan": [
+      "Cawangan Pengurusan Perkhidmatan Farmasi",
+      "Cawangan Amalan & Perkembangan Farmasi",
+      "Cawangan Penguatkuasa Farmasi"
+    ],
+    "pengurusan farmasi": [
+      "Objektif: Untuk memastikan perancangan strategik dan dasar perkhidmatan farmasi dilaksanakan mengikut sasaran yang ditetapkan, pengagihan sumber manusia mengikut keperluan, pembangunan modal insan yang relevan dan berterusan, penerapan dan pengamalan sistem pengurusan kualiti yang berterusan dalam perkhidmatan farmasi, serta memastikan urusan pentadbiran dan kewangan yang mantap dilakukan mengikut peraturan dan garis panduan yang ditetapkan.", 
+      
+      "Tugas-tugas utama:-",
+      "1. Mengurus penyampaian maklumat dasar berkaitan perkhidmatan yang ditetapkan oleh Bahagian Perkhidmatan Farmasi, Kementerian Kesihatan Malaysia.",
+      "2. Menyelaras dan memantau perkara berkaitan kualiti/ inovasi dalam perkhidmatan farmasi.",
+      "3. Mengenalpasti, merancang dan mengkoordinasi program berkaitan latihan dan Continuous Professional Development (CPD) untuk anggota perkhidmatan farmasi negeri.", 
+      "4. Mengurus keperluan sumber manusia dalam perkhidmatan farmasi termasuk penjawatan, penempatan dan pertukaran Pegawai Farmasi dan Penolong Pegawai Farmasi.",
+      "5. Mengendalikan aduan berkaitan perkhidmatan farmasi.",
+      "6. Memantau pelaksanaan dasar-dasar yang ditetapkan dan masalah-masalah yang timbul berkaitan pengurusan farmasi di fasiliti farmasi hospital dan klinik kesihatan di W.P. Labuan."
+    ],
+    "perkembangan farmasi": [
+      "Objektif: Untuk memastikan keperolehan dan penggunaan ubat-ubatan yang berkualiti melalui amalan farmasi yang berkesan bagi mempertingkatkan perkhidmatan farmasi di Malaysia supaya setanding dengan kemajuan perkembangan perkhidmatan farmasi di negara-negara maju.", 
+      
+      "Tugas-tugas utama:-",
+      "1. Merancang, membangun, mengawal dan menyelaras aktiviti-aktiviti program Farmasi di Hospital dan Klinik Kesihatan kerajaan di W.P. Labuan ke arah penambahbaikan perkhidmatan berterusan.",
+      "2. Memantau pelaksanaan aktiviti-aktiviti farmasi di Hospital dan Klinik Kesihatan kerajaan W.P. Labuan seperti Farmasi Ambulatori, Farmasi Pesakit Dalam, Farmasi Klinikal, Kaunseling (MTAC) dan sebagainya melalui pengumpulan data-data secara berkala.",
+      "3. Menyelaras Audit Dalaman Amalan Farmasi dan aktiviti-aktiviti penyeliaan ke atas fasiliti farmasi di Hospital dan Klinik Kesihatan.", 
+      "4. Memperkukuhkan aspek keselamatan pengubatan pesakit melalui perkhidmatan Farmasi Klinikal Farmakokinetik, pelaporan kesan advers ubat dan kesilapan pengubatan.",
+      "5. Mempromosikan kesedaran penggunaan ubat secara berkualiti dan rasional.",
+      "6. Memastikan bekalan ubat-ubatan berjalan lancar melalui aktiviti pengurusan stor dan kewangan yang mantap.",
+      "7. Memantau penggunaan ubat-ubatan di Hospital dan Klinik Kesihatan kerajaan di W.P. Labuan."
+    ],
+    "penguatkuasa farmasi": [
+      "Objektif: Memastikan semua keluaran farmaseutikal dan produk penjagaan kesihatan yang berada di pasaran adalah berkualiti, selamat, berkesan dan iklan ubat dan perkhidmatan perubatan mematuhi akta-akta dan peraturan-peraturan yang dikuatkuasakan dan juga meningkatkan kesedaran pengguna ke atas penggunaan ubat yang berdaftar.", 
+      
+      "Aktiviti utama:-",
+      "1. Perlesenan - Unit Pelesenan bertanggungjawab memproses Lesen Racun Jenis A/B/E dan Permit NaOH di bawah Akta Racun 1952.",
+      
+      "2. Pemeriksaan - Pemeriksaan premis dijalankan bagi tujuan pengeluaran lesen racun ke atas premis farmasi dan premis yang mengendalikan bahan kimia terkawal bagi tujuan kegunaan industri. Ia dijalankan bagi memastikan kepatuhan setiap pemegang lesen terhadap syarat-syarat lesen racun di bawah Akta Racun 1952. Pemeriksaan juga dijalankan ke atas premis berdaftar iaitu klinik-klinik dan hospital swasta bagi memastikan pengendalian racun dilaksanakan mengikut keperluan undang-undang dan tiada penjualan atau pembekalan racun berjadual oleh individu yang tidak berkelayakan. Selain itu, pemeriksaan premis tidak berlesen seperti kedai-kedai ubat tradisional Cina, Melayu dan India; kedai runcit, gerai-gerai, pasar malam, premis jualan langsung dan salun-salun kecantikan juga dijalankan bagi memastikan semua keluaran-keluaran kesihatan yang dijual atau dibekal adalah berdaftar dengan Kementerian Kesihatan Malaysia (KKM) bagi menjamin keselamatan pengguna.",
+     
+      "3. Pemeriksaan Di Pintu Masuk - Pemeriksaan terhadap pengimportan ubat-ubatan, kosmetik dan bahan kimia dijalankan oleh Cawangan-cawangan Penguatkuasa Farmasi W.P. Labuan di pintu masuk utama. Saringan pengimportan dijalankan bukan sahaja melalui kargo tetapi juga terhadap pengimportan sama ada di luar atau dalam Negara melalui pos atau agen kurier dan juga bagasi penumpang.", 
+      
+      "4. Perlindungan Pengguna - Unit Perlindungan Pengguna bertanggungjawab untuk mendidik dan memberi kesedaran kepada masyarakat berkaitan penggunaan ubat-ubatan dan produk-produk farmaseutikal yang berkualiti dan selamat. Unit ini juga bertanggungjawab dalam meningkatkan kesedaran masyarakat akan risiko penggunaan ubat tradisional yang tidak berdaftar dan dicemarpalsu. Bagi tujuan itu, dua aktiviti utama iaitu pameran dan sesi ceramah dan dialog telah dijalankan di samping pelbagai program seperti pengedaran risalah serta kalender berinformasi kepada jabatan kerajaan, pihak swasta, badan bukan kerajaan, institusi pengajian tinggi awam dan swasta, peniaga dan pemegang lesen/permit.",
+      
+      "5. Kawalan Iklan - Selaras dengan perkembangan teknologi, masyarakat kini boleh menerima maklumat melalui pelbagai sumber media massa. Pengiklanan pelbagai produk tidak berdaftar dan mengandungi bahan racun berjadual semakin banyak didapati dalam majalah-majalah, akhbar, televisyen, radio dan internet. Cawangan Penguatkuasa Farmasi berperanan memantau pengiklanan ubat dan barangan farmaseutikal selaras dengan peruntukan dalam Akta Ubat (Iklan dan Penjualan) 1956.",
+      
+      "6. Risikan Dan Operasi - Unit ini bertanggungjawab menyiasat dan mengesahkan setiap aduan dan maklumat yang diterima daripada orang ramai. Pengesahan aduan dibuat bagi memastikan maklumat adalah tepat dan sesuai untuk operasi serbuan. Serbuan dilakukan ke atas premis perniagaan ubat tradisional, kedai ubat, kedai runcit, gerai-gerai dan salun kecantikan serta rumah kediaman yang didapati menjalankan penjualan ubat-ubatan tidak berdaftar termasuk produk kesihatan dan kecantikan.",
+      
+      "7. Siasatan Dan Pendakwaan - Penyiasatan adalah satu proses mengumpulkan maklumat-maklumat berkaitan kesalahan yang dilakukan oleh orang kena siasat (OKS) sehingga ke peringkat pendakwaan. Ia melibatkan pengumpulan maklumat yang relevan daripada agensi lain seperti Suruhanjaya Syarikat Malaysia, Jabatan Kimia Malaysia, Jabatan Pendaftaran Negara, Majlis Perubatan Malaysia, Telekom Malaysia, Jabatan Polis, Jabatan Imigresen dan lain-lain agensi yang berkaitan. Hasil daripada penyiasatan yang menyeluruh, mana-mana individu atau syarikat yang didapati melanggar undang-undang yang dikuatkuasakan akan didakwa di mahkamah mengikut kesalahan yang dilakukan. Pegawai farmasi yang dilantik menjadi pegawai pendakwa bertanggungjawab membawa kes ke mahkamah bagi membuktikan kes ke atas orang yang didakwa."
+    ]
+  },
+  {
+    "nama": "Bahagian Perubatan", 
+    "keywords": ["kualiti perubatan", "perkembangan perubatan", "medikolegal", "perubatan", "ckaps"],
+    "perubatan": [
+      "Visi: Ke arah individu, keluarga dan masyarakat WP Labuan sihat sejahtera bagi menikmati kehidupan yang berkualiti.",
+
+      "Misi: Membentuk masyarakat WP Labuan sihat melalui :-", 
+      "i.Perkhidmatan jagaan kesihatan yang berkualiti, mampu dan mudah diperolehi.", 
+      "ii.Untuk memastikan sistem kesihatan berkualiti tinggi dengan mengutamakan pelanggan melalui:", 
+         "- Saksama;", 
+         "- Tidak Membebankan;", 
+         "- Cekap;", 
+         "- Wajar Mengikut Teknologi;", 
+         "- Boleh Disesuaikan Mengikut Persekitaran;", 
+         "- Inovatif", 
+      "iii. Menerajui dan berusaha untuk memudahkan dan membolehkan rakyat:", 
+         "- mencapai sepenuhnya potensi mereka dalam kesihatan;", 
+         "- menghargai kesihatan sebagai aset paling berharga",
+ 
+      "objektif umum: Program Perubatan ini berperanan dalam merancang, menyelaras, memantau dan menilai pelaksanaan semua aktiviti program rawatan perubatan bagi memastikan perkhidmatan yang lebih cekap, berkesan dan mudah kepada pelanggan.",
+
+      "objektif spesifik: i. Memastikan penyampaian perkhidmatan perubatan yang cekap, berkesan, selamat dan mesra pelanggan.", 
+      "ii. Merangka dan melaksana perancangan yang strategik bagi Program Perubatan selaras dengan dasar Kementerian Kesihatan Malaysia.", 
+      "iii.Memantau dan menilai semua program dan aktiviti penjagaan perubatan di hospital kerajaan , hospital swasta , klinik perubatan swasta , klinik pergigian swasta dan pengamal perubatan tradisional dan komplimentari (TCM).", 
+      "iv. Merancang, melaksana dan menyelaras aktiviti-aktiviti penyelidikan insiatif kualiti dan inovasi bagi menjamin perkhidmatan yang berkualiti hospital.", 
+      "v. Menggalakkan kolaborasi dan penyelarasan antara sektor dan agensi-agensi lain dalam semua aktiviti berkaitan dengan perubatan dan kesihatan."
+    ],
+    "unit": [
+      "Unit Kualiti Perubatan",
+      "Unit Amalan dan Medikolegal",
+      "Unit Perkembangan Perubatan",
+      "Unit Rekod Perubatan"
+    ],
+    "kualiti perubatan": [
+      "Fungsi: 1. Merancang, melaksana dan memantau aktiviti survelan pencapaian klinikal termasuk pelaporan pencapaian data KPI (Key Performance Indicator) / CPVF (Clinical Performance Verification Form ) / HPIA (Hospital Performance Indicator for Accountability)dan aktiviti audit KPI PKN dan TPKN(P).", 
+      "2. Sekretariat bagi pelaporan pencapaian KPI Pengarah Kesihatan Negeri.", 
+      "3. Merancang dan menyelaras aktiviti QAP peringkat negeri termasuk aktiviti latihan, pengurusan konvensyen, dokumentasi dan liason di antara KKM dan JKN bagi aktiviti ini.", 
+      "4. Merancang, mengurus dan memantau pelaksanaan aktiviti Kawalan Infeksi di fasiliti hospital", 
+      "5. Penyelarasan dan pemantauan pelaporan Malaysian Patient Safety Goal (MPSG) dan aktiviti keselamatan pesakit peringkat Jabatan Kesihatan Negeri WP Labuan.", 
+      "6. Penyelarasan dan pemantauan program Incident Reporting (IR) hospital.", 
+      "7. Sekretariat negeri bagi pelaksanaan aktiviti P5VS dan Program Bebas Kesakitan (PFP).", 
+      "8. Merancang, menyelaras dan memantau aktiviti Keselamatan dan Kesihatan Pekerjaan (JKKP) hospital.", 
+      "9. Memantau program latihan atau ’echo training’ CPG di peringkat Jabatan Kesihatan Negeri WP Labuan serta membuat laporan aktiviti latihan CPG dan pengedaran garispanduan dan maklumat lain yang berkaitan.", 
+      "10. Pemantauan Piagam Pelanggan Teras KKM Bahagian Perubatan untuk hospital.", 
+      "11. Penyelarasan dan pemantauan pelaporan aktiviti Lean Healthcare di hospital.", 
+      "12. Penyelarasan dan pemantauan pelaksanaan aktiviti akreditasi hospital.", 
+      "13. Sekretariat negeri bagi pelaksanaan aktiviti program Safe Surgery Saves Lives(SSSL).", 
+      "14. Penyelaras klinikal bagi sistem Casemix hospital.", 
+      "15. Pengendalian aktiviti kualiti yang lain seperti MS ISO, EKSA peringkat bahagian Perubatan sendiri.", 
+      "16. Sekretariat negeri bagi Program Credentialing and Privileging (C&P) JKWP Labuan."
+    ],
+    "perkembangan perubatan": [
+      "Fungsi: 1. Menyelaras penempatan Pegawai Perubatan baru ke fasiliti kesihatan WP Labuan.", 
+      "2. Menyelaras permohonan Latihan Elektif bagi Pelajar Perubatan ke Hospital Labuan.", 
+      "3. Menghadiri mesyuarat bersama Agensi Luar.", 
+      "4. Memantau pencapaian Pelan Strategik bahagian Perubatan.", 
+      "5. Mengendalikan mesyuarat berkaitan.", 
+      "6. Memantau dan menyelaras aktiviti LDP (Latihan Dalam Perkhidmatan) Perubatan.", 
+      "7. Menjalankan penyeliaan dan pengauditan hospital secara berkala.", 
+      "8. Memantau aktiviti pembangunan hospital Labuan.", 
+      "9. Menyelaras permohonan peralatan perubatan dan bukan perubatan bahagian Perubatan dan hospital Labuan.", 
+      "10. Menyelaras permohonan peralatan perubatan dan bukan perubatan bahagian Perubatan dan hospital Labuan.", 
+      "11. Memantau program Continuous Profession Development (CPD) bahagian dan Hospital Labuan..", 
+      "12. Memantau aktiviti Continous Profession Development (CPD) kakitangan Bahagian Perubatan JKWPL."
+    ],
+    "ckaps": [
+      "Fungsi - 1. Permohonan pendaftaran klinik perubatan swasta dan klinik pergigian swasta.", 
+      "2. Pengendalian permohonan pembaharuan lesen kemudahan dan perkhidmatan jagaan kesihatan swasta (klinik perubatan dan klinik pergigian swasta).", 
+      "3. Memantau aduan terhadap kemudahan dan perkhidmatan jagaan kesihatan swasta dan memastikan aduan tersebut diambil tindakan dan selesai.", 
+      "4. Melaksanakan aktiviti penguatkuasaan ke atas kemudahan dan perkhidmatan jagaan kesihatan swasta sebagaimana yang diperuntukkan dibawah Akta 586.", 
+      "5. Pemantauan dan kawal selia semua kemudahan dan perkhidmatan jagaan kesihatan swasta.", 
+      "6. Pemantauan permohonan lokum peringkat negeri."
+    ],
+    "medikolegal": [
+      "Fungsi - 1. Menyelaras dan mengurus maklumbalas pelanggan terhadap perkhidmatan hospital kerajaan di WP Labuan termasuk aduan awam, pertanyaan, cadangan, permohonan dan penghargaan.", 
+      "2. Menyelaras dan mengurus aduan serta saman Medico-Legal terhadap perkhidmatan hospital dan klinik kerajaan di WP Labuan termasuk penubuhan Jawatankuasa Penyiasatan Bebas dan Jawatankuasa Tawaran Ex-Gratia.", 
+      "3. Menjalankan latihan berkaitan pengurusan dan penyiasatan aduan serta etika dan perundangan perubatan.", 
+      "4. Memantau pelaksanaan cadangan dan langkah-langkah penambahbaikan terhadap aduan perkhidmatan hospital."
+    ],
+    "rekod perubatan": [
+      "Fungsi - 1. Mengumpul dan memantau data-data statistik kesihatan", 
+      "2. Menyelaras pengurusan penubuhan Lembaga Perubatan", 
+      "3. Mengendalikan mesyuarat berkaitan Unit Rekod Perubatan", 
+      "4. Mengadakan latihan termasuk kursus, bengkel dan taklimat berkaitan rekod", "5. Mengendalikan penyediaan dan penerbitan Laporan Tahunan dan Health Facts", "6. Memantau pelaksanaan audit rekod mengikut garis panduannya dan ICD10 / ICD11."
+    ]
+  },
+  {
+    "nama": "Bahagian Kesihatan Pergigian", 
+    "keywords": ["pergigian", "kanser mulut", "fluorida", "fasiliti"],
+    "pergigian": [
+      "Peranan: Bahagian Kesihatan Pergigian bertanggungjawab bagi aktiviti pentadbiran dan pengurusan pergigian, perkhidmatan pergigian primer dan perkhidmatan pergigian masyarakat.",
+      "objektif: Untuk meningkatkan taraf kesihatan pergigian masyarakat melalui perkhidmatan pergigian penggalakan, pencegahan, rawatan dan pemulihan serta memberi perhatian khas kepada kumpulan kurang bernasib baik supaya seseorang individu itu dapat mencapai taraf kesihatan bagi membolehkannya hidup sihat serta menjalankan kehidupan ekonomi dan sosial yang produktif."
+    ],
+    "fasiliti": [
+      "Klinik Pergigian: 1. Klinik Pergigian WP Labuan (Klinik Kesihatan Labuan), 2. Klinik Pergigian UTC (UTC Labuan)", 
+      "Klinik Kesihatan Pergigian Sekolah Rendah: 1. SK Pekan 1, 2. SK Pekan 2, 3. SJK (C) Chi Wen",
+      "Pasukan Pergigian Bergerak (PBB): 1. PPB Sekolah Rendah, 2. PPB Sekolah Menengah, 3. PPB Prasekolah"
+    ],
+    "pergigian masyarakat": [
+      "Fungsi: Fokus Kesihatan Pergigian Masyarakat adalah untuk mencegah karies gigi dan Kanser Mulut. Ini termasuk pemfluoridaan bekalan air awam, rawatan klinikal seperti rawatan sealan fisur bagi gigi geraham dan varnish fluorida, program pencegahan seperti aktiviti ceramah, latihan memberus gigi, role play dan pengesanan awal pra kanser dan kanser mulut", 
+      
+      "Pemfluoridaan: Pemfluoridaan bekalan air awam merupakan langkah pencegahan yang efektif yang dapat dinikmati oleh semua lapisan masyarakat sekiranya paras bekalan fluoride berada pada tahap optimum. Pemfluoridaan telah terbukti dapat mengurangkan kejadian karies gigi. Kerjasama perlu ditingkatkan dengan pihak Jabatan Bekalan Air serta Loji Swasta.", 
+
+      "Sealan Fisur: Sealan Fisur merupakan satu aktiviti pencegahan yang dijalankan secara klinikal yang bertujuan bagi mencegah karies gigi. Dibawah aktiviti ini sealan fisur disapu pada liang dan fisur gigi geraham kekal dikalangan kanak-kanak yang berisiko mendapat karies gigi.", 
+
+      "Kanser Mulut: Aktiviti pengesanan dan pencegahan awal prakanser dan kanser disasarkan kepada kumpulan yang berisiko. Tujuan aktiviti ini adalah untuk meningkatkan kesedaran tentang faktor-faktor yang menyebabkan kanser mulut . Aktiviti ini juga untuk mendidik individu bagi mengesan tanda-tanda awal gejala kanser mulut dan mendapatkan pemeriksaan bagi mengesan kanser awal mulut. Kanser yang dikesan pada peringkat awal berpotensi lebih baik untuk sembuh."
+    ],
+    "pergigian primer": [
+      "Fungsi: 1. Penjagaan Kesihatan Pergigian Primer ditujukan kepada semua penduduk Labuan di mana golongan sasaran utama adalah kanak-kanak kecil, kanak-kanak prasekolah, pelajar sekolah rendah dan menengah, ibu mengandung, kanak-kanak keperluan khas, dewasa dan wargatua. Semua aktiviti di bawah program ini telah dirangka dan dilaksanakan bagi memastikan hasil kesihatan mulut yang optimum.", 
+
+      "Perkhidmatan Pergigian Toddler: Penjagaan Awal Kesihatan Pergigian diberi kepada kanak-kanak sejak lahir lagi. Objektif utama program kesihatan pergigian awal kanak-kanak adalah untuk menggalakkan dan mengekalkan kesihatan mulut yang baik ke arah mencapai pertumbuhan dan pembangunan optimum. Kanak-kanak yang diperiksa di Klinik Kesihatan Ibu dan Anak (KKIA) dan Klinik Desa (KD) akan dirujuk ke Klinik Pergigian untuk mendapat pemeriksaan. Jururawat Pergigian akan memberi tunjukajar penjagaan kesihatan mulut kepada ibubapa/penjaga kanak-kanak ini.", 
+
+      "Perkhidmatan Pergigian Prasekolah: Di bawah aktiviti ini, kanak-kanak prasekolah akan didedahkan melalui aktiviti promosi dan pencegahan. Ini termasuklah ceramah, sesi memberus gigi, pertunjukan boneka, ‘roleplay’ dan lain-lain aktiviti yang menyeronokkan. Pemeriksaan dan rawatan pergigian akan dilaksanakan selepas aktiviti pencegahan dijalankan.", 
+
+      "Perkhidmatan Pergigian Sekolah: Perkhidmatan pergigian sekolah rendah, menengah serta pra-sekolah dilaksana melalui perkhidmatan pergigian sekolah secara incremental yang sistematik dan menyeluruh supaya matlamat kesihatan gigi kanak-kanak tercapai sepenuhnya. Murid sekolah akan diperiksa dan dirawat di sekolah masing-masing. Perkhidmatan pergigian sekolah adalah termasuk kanak-kanak keperluan khas yang terdapat di sekolah masing-masing.", 
+
+      "Perkhidmatan Pergigian Ibu Mengandung: Matlamat utama aktiviti ini adalah untuk memberi pengetahuan kesihatan pergigian. Mereka diberi pemeriksaan dan rawatan pergigian secara percuma. Selain itu, ceramah juga dijalankan kepada kumpulan ini.", 
+
+      "Perkhidmatan Pergigian Kepada Pesakit Luar: Hanya satu sahaja Klinik Pergigian yang terdapat di Labuan. Klinik ini terletak di tingkat satu bangunan Klinik Kesihatan Labuan. Perkhidmatan pergigian di Klinik Pergigian Labuan dibuka setiap hari bekerja untuk pemeriksaan pergigian, penskaleran, tampalan gigi dan juga cabutan gigi. Bagi rawatan lain seperti gigi palsu, rawatan salur akar gigi, pembedahan kecil bagi gigi geraham bongsu terimpak dan lain-lain keadnormalan dalam mulut akan dibuat secara temujanji.", 
+
+      "Perkhidmatan Pergigian Untuk Golongan Keperluan Khas: Perkhidmatan dilaksanakan di semua Pusat Dalam Komuniti dan Pusat Mesra Komuniti yang terdapat di Labuan. Semua kanak-kanak ini diberi pemeriksaan dan rawatan setiap tahun. Selain itu, ceramah dan tunjukajar memberus gigi juga diberi kepada penjaga kanak-kanak ini."
+    ]
+  },
+  {
+    "nama": "Bahagian Keselamatan & Kualiti Makanan", 
+    "keywords": ["akta makanan", "makanan", "pemantauan", "import", "eksport"],
+    "keselamatan & makanan": [
+      "Peranan: Bahagian Keselamatan dan Kualiti Makanan bertanggungjawab untuk menjaga keselamatan makanan di dalam rantaian makanan, iaitu mengikut konsep, 'farm-to-table'. Ini adalah rangka yang digunapakai oleh unit untuk tujuan melakukan aktiviti-aktiviti untuk melindungi pengguna dan juga untuk membangunkan industri makanan supaya mempunyai daya saing yang kuat diperingkat antarabangsa.",
+      "Di peringkat Pengurusan BKKM bertanggungjawab memantau kerja-kerja yang dilakukan oleh setiap seksyen.",
+      "Selain daripada itu BKKM di peringkat pengurusan juga bertanggungjawab untuk menjalankan merancang aktiviti-aktiviti promsi keselamatan makanan, aktiviti eskport makanan dan juga memberikan maklumat mengenai Program Keselamatan Makanan yang diterima daripada Bahagian Keselamatan dan Kualiti Makanan kepada setiap seksyen."
+    ],
+    "seksyen": [
+      "Seksyen Pematuhan Domestik - Memantau premis makanan dan pengambilan sampel makanan mengikut keperluan Program Keselamatan dan Kualiti Makanan Kebangsaan serta melaksanakan tindakan penguatkuasaan yang termaktub di bawah Akta Makanan 1983 dan Peraturan Makanan 1985 serta Peraturan- Peraturan Kebersihan Makanan 2009.", 
+      "Organisasi: 1. Diketuai oleh Pegawai Kesihatan Persekitaran (PKP U42)", 
+      "2. Penolong Pegawai Kesihatan Persekitaran (PPKPU36)", 
+      "3. Penolong Pegawai Kesihatan Persekitaran (PPKPU32)", 
+      "4. empat orang Penolong Pegawai Kesihatan Persekitaran (PPKPU29)", 
+      "5. tiga Pembantu Kesihatan Awam ( U17).",
+
+      "Seksyen Pensijilan - Membantu dalam pelaksanaan program Pensijilan MeSTI ( Makanan Selamat Tanggungjawab Industri), Pelesenan Kilang Ais, Kilang Air Minuman Berbungkus (AMB) dan Pelesenan Mesin Jual Air yang wujud di Wilayah Persekutuan Labuan. Ini melibatkan juga pensijilan yang baru serta pembahruan kilang-kilang yang telah dilesenkan. Tambahan lagi pemberian khidmat nasihat mengenai proses pensijilan turut menjadi perkara yang penting.",
+
+      "Seksyen Pembangunan Industri dan Perkhidmatan Makanan - Membantu di dalam Pensijilan BeSS (Bersih, Selamat dan Sihat) bagi premis outlet makanan dan juga dalam pelaksanaan Kendiri bagi Sekolah dan Dapur Asrama. Aktiviti termasuk promosi dan latihan mengenai Program pensijilan BeSS dan Program Kendiri Sekolah serta pengkemaskinian rekod bagi aktiviti pensijilan ini.",
+
+      "Seksyen Import - Memantau, memberi maklumat, memeriksa konsainmen makanan dan mengambil sampel makanan import yang memasuki WP Labuan. Seksyen di ketuai oleh Pegawai Teknologi Makanan dan dianggotai oleh seorang orang Penolong Pegawai Kesihatan Persekitaran U29 dan seorang Pembantu Kesihatan Awam U17.",
+      "Organisasi: 1. Diketuai oleh Pegawai Teknologi Makanan", 
+      "2. Penolong Pegawai Kesihatan Persekitaran U29", 
+      "3. Pembantu Kesihatan Awam U17"
+    ]
+  }
+]

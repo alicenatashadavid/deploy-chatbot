@@ -1,0 +1,78 @@
+[{
+    "category": "Klinik",
+    "question": "Bagaimana membuat aduan kepada JKWPL?",
+    "keywords": ["aduan", "laporan", "complain"],
+    "answer": "Aduan boleh dibuat melalui telefon 087-596000, emel atau sistem SPAB."
+  },
+  {
+    "category": "Klinik",
+    "question": "Berapa lama masa menunggu di klinik?",
+    "keywords": ["masa", "menunggu", "klinik"],
+    "answer": "Masa menunggu sekitar 10 hingga 120 minit bergantung kepada perkhidmatan."
+  },
+  {
+    "category": "Klinik",
+    "question": "Apa perkhidmatan di Klinik Kesihatan Labuan?",
+    "keywords": ["perkhidmatan", "klinik"],
+    "answer": "Saringan kesihatan, klinik diabetis dan saringan pra-perkahwinan."
+  },
+  {
+    "category": "Makanan",
+    "question": "Bagaimana memastikan makanan selamat?",
+    "keywords": ["makanan", "selamat"],
+    "answer": "Pastikan makanan dimasak sempurna, disimpan dengan betul dan elakkan pencemaran."
+  },
+  {
+    "category": "Makanan",
+    "question": "Apakah tanda keracunan makanan?",
+    "keywords": ["keracunan", "makanan"],
+    "answer": "Muntah, cirit-birit, sakit perut dan demam."
+  },
+  {
+    "category": "Makanan",
+    "question": "Apa perlu dibuat jika keracunan makanan?",
+    "keywords": ["keracunan", "buat"],
+    "answer": "Dapatkan rawatan segera dan minum air secukupnya."
+  },
+  {
+    "category": "Farmasi",
+    "question": "Apakah ubat berdaftar?",
+    "keywords": ["ubat", "berdaftar", "mal"],
+    "answer": "Ubat yang diluluskan KKM dan mempunyai nombor MAL."
+  },
+  {
+    "category": "Farmasi",
+    "question": "Apa risiko ubat tidak berdaftar?",
+    "keywords": ["ubat", "risiko"],
+    "answer": "Boleh mengandungi bahan berbahaya dan tidak selamat."
+  },
+  {
+    "category": "Farmasi",
+    "question": "Bagaimana simpan ubat?",
+    "keywords": ["simpan", "ubat"],
+    "answer": "Simpan di tempat kering, jauh dari cahaya dan kanak-kanak."
+  },
+  {
+    "category": "Pergigian",
+    "question": "Apa punca karies gigi?",
+    "keywords": ["gigi", "karies"],
+    "answer": "Bakteria menukar gula kepada asid yang merosakkan gigi."
+  },
+  {
+    "category": "Klinik",
+    "question": "Apakah waktu operasi Klinik Kesihatan di Labuan?",
+    "keywords": ["waktu operasi", "jam", "buka", "tutup"],
+    "answer": "Waktu operasi Klinik Kesihatan (KK) & Klinik Desa (KD) di Labuan adalah:\n\n1. KK WP Labuan (Tg. Taras) & Klinik Desa:\n- Isnin - Khamis: 8:00 AM - 5:00 PM (Rehat 1PM-2PM)\n- Jumaat: 8:00 AM - 5:00 PM (Rehat 12.15PM-2.45PM)\n- Sabtu/Ahad/Cuti Am: Tutup\n\n2. KK UTC Labuan:\n- Isnin - Ahad: 8:00 AM - 9:00 PM\n\nUntuk kecemasan selepas waktu pejabat, sila terus ke Unit Kecemasan Hospital Labuan (24 jam)."
+  },
+  {
+    "category": "Umum",
+    "question": "Bagaimana cara hubungi JKWPL?",
+    "keywords": ["hubungi", "telefon", "nombor", "contact", "jkwpl"],
+    "answer": "Anda boleh menghubungi Jabatan Kesihatan W.P. Labuan (JKWPL) melalui:\n\n- Telefon: 087-596000\n- Faks: 087-423882\n- Alamat: Peti Surat 80832, 87018 Wilayah Persekutuan Labuan.\n\nUntuk Hospital Labuan, sila hubungi 087-423919."
+  },
+  {
+    "category": "Hospital",
+    "question": "Di mana Hospital Labuan?",
+    "keywords": ["lokasi hospital", "hospital labuan", "di mana hospital"],
+    "answer": "Hospital Labuan terletak di Jalan Hospital, 87008 Wilayah Persekutuan Labuan. Ia merupakan hospital utama di Labuan yang menyediakan perkhidmatan pakar dan kecemasan 24 jam."
+  }]
